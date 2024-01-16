@@ -1,0 +1,1 @@
+#function f4, u need to change a.shape to b.shape
